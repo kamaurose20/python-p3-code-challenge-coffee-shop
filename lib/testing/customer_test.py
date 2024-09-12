@@ -22,7 +22,6 @@ class TestCustomer:
         customer = Customer('Steve')
         assert isinstance(customer.name, str)
         
-        # Uncommented
         with pytest.raises(Exception):
             customer.name = 1
         # ------------------------
