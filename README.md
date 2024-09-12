@@ -36,5 +36,4 @@ cd python-p3-code-challenge-coffee-shop
 - Count how many times a coffee has been ordered.
 - Get Average Price for Coffee
 
-remember to pytest
 

@@ -1,5 +1,5 @@
-from classes.coffee import Coffee
-from classes.order import Order
+from coffee import Coffee
+from order import Order
 
 class Customer:
     def __init__(self, name):
